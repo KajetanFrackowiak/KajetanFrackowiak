@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kajetan Frąckowiak</h1>
-<h3 align="center">Machine Learning Researcher</h3>
+<h3 align="center">Junior Machine Learning Researcher</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
